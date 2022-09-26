@@ -15,7 +15,7 @@
 |GW|Titleist VOKEY SM9 Wedge|48F|Titleist BV105|35.75|Tour Chrome|
 |AW|Titleist VOKEY SM9 Wedge|52F|Titleist BV105|35.50|Brushed Steel|
 |SW|Titleist VOKEY SM9 Wedge|58D|Titleist BV105|35.00|Brushed Steel|
-|PT|Gauge Desigh GA00A 1st RUN|4|N.S.|34||
+|PT|Gauge Design GA00A 1st RUN|4|N.S. P.P.Adjust COPP-15AD|34||
 |Ball|Titlest Pro V1 (2020)|||||
 <!---
 sekimoton/sekimoton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
