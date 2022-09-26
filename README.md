@@ -5,7 +5,7 @@
 ### what's in the bag
 |#|name|loft(deg)|shaft|len(inch)||
 |--|:---|:---|:---|:---|:---|
-|1W|Titlest TSi2 Driver|10(9.25)|UST Mamiya ATTAS King 5S|45.50|POS:D1(loft -0.75)|
+|1W|Titlest TSi2 Driver|10(9.25)|UST Mamiya ATTAS 13(KING) 5S|45.50|POS:D1(loft -0.75)|
 |3W|Titlest TSi2 Fairway|15(16.5)|Titleist TSP322 55(S)|43.00|POS:A4(loft +1.5)|
 |5W|Titlest TSi2 Fairway|18|Titleist TSP322 55(S)|42.00|POS:A1(norm)|
 |4U|Ping G425 Hybrid|22|Mitsubishi Chem. TENSEI CK Pro Orange 70S|39.75|waighted +10g|
