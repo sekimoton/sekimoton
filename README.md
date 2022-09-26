@@ -9,7 +9,7 @@
 |3W|Titlest TSi2 Fairway|15 (16.5)|Titleist TSP322 55(S)|43.00|POS:A4(loft +1.5)|
 |5W|Titlest TSi2 Fairway|18|Titleist TSP322 55(S)|42.00|POS:A1(norm)|
 |4U|Ping G425 Hybrid|22|Mitsubishi Chem. TENSEI CK Pro Orange 70S|39.75|weighted +10g|
-|5U|Ping G425 Hybrid|26|Mitsubishi Chem. TENSEI CK Pro Orange 80S|39.75|(alt)|
+|5U|Ping G425 Hybrid|26|Mitsubishi Chem. TENSEI CK Pro Orange 80S|39.25|(alt)|
 |5I|Titleist T200|25|N.S.PRO AMC 880(S)|38.00|(alt)|
 |6I-PW|Titleist T200|28-43|N.S.PRO AMC 880(S)|37.50-35.75||
 |GW|Titleist VOKEY SM9 Wedge|48F|Titleist BV105|35.75|Tour Chrome|
