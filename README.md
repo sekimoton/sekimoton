@@ -23,7 +23,7 @@
 ### desk top music
 |type|name|spec|
 |:---|:---|:---|
-|PC|Style Infinity by Iiyama|Windows 10, Intel Core-i7(9th), 16GB, 256GB SSD|
+|PC|Style Infinity by Iiyama|Windows 10, Intel Core-i7(9th), 16GB, 256GB SSD, 1TB HDD|
 |Music Production S/W|Steinberg Cubase 12 Artist||
 |Music Workstation|Korg KRONOS 2|61 keys, 9-Sound Engines|
 |Vocal Editor|Cripton Piapro Studio||
