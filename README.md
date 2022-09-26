@@ -12,9 +12,9 @@
 |5U|Ping G425 Hybrid|26|Mitsubishi Chem. TENSEI CK Pro Orange 80S|39.75|(alt)|
 |5I|Titleist T200|25|N.S.PRO AMC 880|39.75|(alt)|
 |6I-PW|Titleist T200|28-43|N.S.PRO AMC 880|37.50-35.75||
-|GW|Titleist VOKEY SM9 Wedge|48|Titlest BV105|35.75|F grind/Tour Chrome|
-|AW|Titleist VOKEY SM9 Wedge|52|Titlest BV105|35.50|F grind/Brushed Steel|
-|SW|Titleist VOKEY SM9 Wedge|58|Titlest BV105|35.00|D grind/Brushed Steel|
+|GW|Titleist VOKEY SM9 Wedge|48|Titleist BV105|35.75|F grind/Tour Chrome|
+|AW|Titleist VOKEY SM9 Wedge|52|Titleist BV105|35.50|F grind/Brushed Steel|
+|SW|Titleist VOKEY SM9 Wedge|58|Titleist BV105|35.00|D grind/Brushed Steel|
 <!---
 sekimoton/sekimoton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
