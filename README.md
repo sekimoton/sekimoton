@@ -17,6 +17,28 @@
 |SW|Titleist VOKEY SM9 Wedge|58D|Titleist BV105|35.00|Brushed Steel|
 |PT|Gauge Design GA00A 1st RUN PROJECT A|4|N.S. P.P.Adjust COPP-15AD|34||
 |Ball|Titlest ProV1 (2020)|||||
+
+
+![音楽ファイルアイコン 3](https://user-images.githubusercontent.com/112854810/192233833-a20d3052-4fc5-4b07-8d35-8c965a064bae.png)
+### desk top music
+|type|name|spec|
+|:---|:---|:---|
+|PC|Style Infinity by Iiyama|Windows 10, Intel Core-i7(9th), 16GB, 256GB SSD|
+|Music Production S/W|Steinberg Cubase 12 Artist||
+|Music Workstation|Korg KRONOS 2|61 keys, 9-Sound Engines|
+|Vocal Editor|Cripton Piapro Studio||
+|Virtual Singer|Cripton MEGURINE LUKA|VOCALOID v4x|
+|Virtual Singer|Cripton KAITO|VOCALOID v3|
+|S/W Synthesizer|Steinberg Groove Agent|Drums & Percs|
+|S/W Synthesizer|Steinberg HALLION Sonic|Instruments|
+|S/W Synthesizer|Steinberg Retrogue|Analogue modelling Synthesizers|
+|S/W Synthesizer|Steinberg Pad Shop 2|Pad sounds|
+|S/W Synthesizer|Dexed 0.9.6-win|FM Synthesizer,VSTi4 Plg-in|
+|Mixer|TASCAM TMD-1000|Digital Mixer, op.Effect card installed|
+|A/D|TASCAM MA-AD8|8ch A/D to TDIF-1 converter|
+|Speakers|Fruid Audio F5|Active Near-field Monitor, 5in woofer/2.5 in tweeter|
+|Headphone|Sony MDR-7506|Dynamic, Closed, Professional Monitor|
+
 <!---
 sekimoton/sekimoton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
