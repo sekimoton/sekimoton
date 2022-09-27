@@ -35,11 +35,11 @@
 |S/W Synthesizer|Steinberg HALLION Sonic|Instruments|
 |S/W Synthesizer|Steinberg Retrogue|Analogue modelling Synthesizers|
 |S/W Synthesizer|Steinberg Pad Shop 2|Pad sounds|
-|S/W Synthesizer|Dexed 0.9.6-win|FM Synthesizer, VSTi4 Plg-in|
+|S/W Synthesizer|Dexed 0.9.6-win|FM Synthesizer, VSTi4 Plug-in|
 |Digital Mixer|TASCAM TMD-1000|16 ch IN:(8ch Ana.+8ch Digi.)/4 bus/2ch OUT(A&D)|
 |A/D|TASCAM MA-AD8|8ch A/D to TDIF-1 converter|
 |USB Audio I/F|Behringer U-PHORIA UMC204HD|2ch A/D + 4ch D/A|
-|Speakers|Fruid Audio F5|Active Near-field Monitor, 5in woofer/2.5 in tweeter|
+|Speakers|Fruid Audio F5|Active Near-field Monitor, 5in woofer/1in tweeter|
 |Headphone|Sony MDR-7506|Dynamic, Closed, Professional Monitor|
 
 <!---
