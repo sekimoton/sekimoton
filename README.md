@@ -27,7 +27,7 @@
 |Electronic Drums|Roland V-drums TD-17KVX||
 |Kick-pedal|Pearl Eliminator Redline P2052C|Double pedals, Chain-drive|
 |PC|Style Infinity by Iiyama|Windows 10, Intel Core-i7(9th), 16GB, 256GB SSD, 1TB HDD|
-|Music Production S/W|Steinberg Cubase 12 Artist||
+|Digital Audio Workstation|Steinberg Cubase 12 Artist||
 |Vocal Editor|Cripton Piapro Studio||
 |Virtual Singer|Cripton MEGURINE LUKA|VOCALOID v4x|
 |Virtual Singer|Cripton KAITO|VOCALOID v3|
