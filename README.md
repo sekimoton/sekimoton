@@ -29,8 +29,8 @@
 |PC|Style Infinity by Iiyama|Windows 10, Intel Core-i7(9th), 16GB, 256GB SSD, 1TB HDD|
 |Digital Audio Workstation|Steinberg Cubase 12 Artist||
 |Vocal Editor|Cripton Piapro Studio||
-|Virtual Singer|Cripton MEGURINE LUKA|VOCALOID v4x|
-|Virtual Singer|Cripton KAITO|VOCALOID v3|
+|Virtual Singer|Cripton MEGURINE LUKA V4X|VOCALOID 4|
+|Virtual Singer|Cripton KAITO|VOCALOID 3|
 |S/W Synthesizer|Steinberg Groove Agent|Drums & Percs|
 |S/W Synthesizer|Steinberg HALLION Sonic|Instruments|
 |S/W Synthesizer|Steinberg Retrogue|Analogue modelling Synthesizers|
