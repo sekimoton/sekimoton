@@ -39,6 +39,8 @@
 |Digital Mixer|TASCAM TMD-1000|16 ch IN:(8ch Ana.+8ch Digi.)/4 bus/2ch OUT(A&D)|
 |A/D|TASCAM MA-AD8|8ch A/D to TDIF-1 converter|
 |USB Audio I/F|Behringer U-PHORIA UMC204HD|2ch A/D + 4ch D/A|
+|USB Controller|Korg nanoKONTROL2|8ch sliders/knobs|
+|USB Controller|Korg nanoPad2|X-Y pad, 18 trigger pads|
 |Speakers|Fruid Audio F5|Active Near-field Monitor, 5in woofer/1in tweeter|
 |Headphone|Sony MDR-7506|Dynamic, Closed, Professional Monitor|
 
