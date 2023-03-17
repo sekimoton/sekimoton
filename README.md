@@ -6,9 +6,9 @@
 |#|name|loft(deg)|shaft|len(inch)|remarks|
 |--|:---|:---|:---|:---|:---|
 |1W|Titlest TSR2 Driver|10 (or 9.25)|UST Mamiya ATTAS 13 (KING) 5S|45.50|POS:A1 or D1(loft -0.75)|
-|3W|Titlest TSi2 Fairway|15 (or 16.5)|Titleist TSP322 55(S)|43.00|POS:A1 or A4(loft +1.5), Alternative|
-|5W|Titlest TSi2 Fairway|18 (or 17.25)|Titleist TSP322 55(S)|42.00|POS:D1(loft -0.75)|
-|4U|Ping G425 Hybrid|22|Mitsubishi TENSEI CK Pro Orange 70S|39.75|weighted head+4g/shaft+5g|
+|3W|Titlest TSi2 Fairway Metal|15 (or 16.5)|Titleist TSP322 55(S)|43.00|POS:A1 or A4(loft +1.5), Alternative|
+|5W|Titlest TSi2 Fairway Metal|18 (or 17.25)|Titleist TSP322 55(S)|42.00|POS:A1 or D1(loft -0.75)|
+|4U|Ping G425 Hybrid|22|Mitsubishi TENSEI CK Pro Orange 70S|39.75|head+4g/shaft+5g weighted|
 |5U|Ping G425 Hybrid|26 (or 25)|Mitsubishi TENSEI CK Pro Orange 80S|39.25|POS:"〇" or "-"(loft -1.0), Alternative|
 |5I|Titleist T200 (2021)|25|N.S.PRO AMC 880(S)|38.00||
 |6I-PW|Titleist T200 (2021)|28-43|N.S.PRO AMC 880(S)|37.50-35.75||
