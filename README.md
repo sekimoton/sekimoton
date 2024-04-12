@@ -24,6 +24,7 @@
 |Music Workstation|Korg KRONOS 2|61 keys, 9-Sound Engines|
 |Electronic Drums|Roland V-drums TD-17KVX||
 |Kick-pedal|Pearl Eliminator Redline P2052C|Double chain driven Twin Pedals |
+|Sticks|Pearl 106MC/106M|classic series (106MC) / Shuichi "PONTA" Murakami model, maple|
 |PC|Style Infinity by Iiyama|Windows 11, Intel Core-i7(9th), 16GB, 512GB SSD, 1TB HDD|
 |Digital Audio Workstation|Steinberg Cubase 12 Artist||
 |Vocal Editor|Cripton Piapro Studio||
